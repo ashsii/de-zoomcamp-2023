@@ -40,7 +40,7 @@ docker run -it \
 
 ### Docker-Compose 
 
-Docker-Compose will: Create postgres and pgadmin session. Then ingest zones and green taxi data. Requires data_ingest:v001 docker file be built.
+Docker-Compose will: Create postgres and pgadmin sessions and ingest zones and green taxi data. Requires data_ingest:v001 docker file be built.
 
 
 Run it:
