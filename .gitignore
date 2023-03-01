@@ -7,6 +7,7 @@
 **google_credentials.json
 **logs/
 **.env
+**.csv.gz
 **__pycache__/
 .history
 **/data/*
